@@ -1,4 +1,12 @@
+# Begimai Abdybekova
+
+---
+
 ## Frontend Developer
+
+---
+
+## Contact Me
 
 - **Phone** : +1 773 966-9903
 - **E-Mail** : <begimai2701@gmail.com>
@@ -38,7 +46,7 @@ else { return "Odd" } }`
 
 ---
 
-## Language
+## Languages
 
 - **English** : fluent
 - **Kyrgyz** : native
